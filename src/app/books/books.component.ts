@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class BooksComponent implements OnInit {
 
-
+books=["jndk","akjsnkjas"];
 
   
   constructor() { }
